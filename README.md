@@ -3,7 +3,7 @@ I'm currently a full-time student at Hive Helsinki, a 42 Paris' coding school in
 
 - 🥰 Previously a Business Administration student, I've always had an interest in coding and decided to go for it! 
 - 🌱 I'm currently learning: C language.
-- 👻 I'm interested in: Fullstack Web Development, and it is my next learning goal.
+- 👻 I'm interested in: Fullstack Web Development, and it is my next learning goal after I have completed the requisite C projects.
 - 📫 You can reach me at: slvkesuma@gmail.com. <br>
 
 [![skesuma's 42 stats](https://badge42.herokuapp.com/api/stats/skesuma?cursus=42)](https://github.com/JaeSeoKim/badge42)
