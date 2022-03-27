@@ -12,4 +12,3 @@ I'm currently a full-time student at Hive Helsinki, a 42 Paris' coding school in
 miofri/miofri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
- -->
