@@ -6,4 +6,4 @@ I studied at Hive Helsinki, a 42 Paris' coding school in Helsinki, Finland. Now 
 - 👻 I'm interested in: Fullstack Web Development
 - 📫 You can reach me at: slvkesuma@gmail.com. <br><br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miofri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=miofri&show_icons=true&locale=en&layout=compact&theme=chartreuse-dark)](https://github.com/anuraghazra/github-readme-stats)
